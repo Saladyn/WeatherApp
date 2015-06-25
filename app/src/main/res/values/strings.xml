@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="enter_city">Enter city:</string>
+
+
+    <!--Card field names-->
+    <string name="minTemp">Min temperature:</string>
+    <string name="maxTemp">Max temperature:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="windSpeed">Wind speed:</string>
+
+
+</resources>
